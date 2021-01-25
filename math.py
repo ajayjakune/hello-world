@@ -14,9 +14,9 @@ def multiply(x,y):
 
 # Perform divisions
 def divide(x,y):
-    return x/y
+    pass
 
 
-# perform square
+# perform squares
 def square(x):
     return x*x
