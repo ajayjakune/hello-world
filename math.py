@@ -8,7 +8,7 @@ def subtract(x,y):
 
 # Perform multiplication
 def multiply(x,y):
-    pass
+    return x*y
     
 
 
