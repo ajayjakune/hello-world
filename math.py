@@ -4,9 +4,7 @@ def add(x,y):
 
 # Perform subtraction
 def subtract(x,y):
-    if x<y:
-        return ERROR
-    return x-y
+    pass
 
 # Perform multiplication
 def multiply(x,y):
@@ -16,6 +14,6 @@ def multiply(x,y):
 
 # Perform divisions
 def divide(x,y):
-    pass
+    return x/y
 
 
